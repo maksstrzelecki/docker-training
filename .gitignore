@@ -1,3 +1,5 @@
 .DS_Store
 .venv
-plan_zajec
+
+/frontend/node_modules/
+/frontend/.next/
